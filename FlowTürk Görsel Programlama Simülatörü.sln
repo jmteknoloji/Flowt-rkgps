@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowTürk Görsel Programlama Simülatörü", "FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü.csproj", "{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMProjectDownloadProtocol", "JMProjectDownloadProtocol\JMProjectDownloadProtocol.csproj", "{AAE40F41-AAC8-4954-8061-DE4F500EC82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowTurkGuncellemesi", "FlowTurkGuncellemesi\FlowTurkGuncellemesi.csproj", "{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE40F41-AAC8-4954-8061-DE4F500EC82B}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{6803B9D9-BEB7-466B-BF7A-ACC9D7DC412F}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

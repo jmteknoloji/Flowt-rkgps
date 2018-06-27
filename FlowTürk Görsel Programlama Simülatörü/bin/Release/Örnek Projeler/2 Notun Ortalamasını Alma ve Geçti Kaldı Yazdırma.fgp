@@ -1,0 +1,25 @@
+0#Baslat_171723_Pic_t79#Baslat#117#428##
+6#Dur_171723_Pic_n215#Dur#567#1006##
+5#Islem_171723_Pic_y894#Islem#456#352#ortalama=(not1+not2)/2#
+1#Degisken_171723_Pic_g821#Degisken#199#352#ortalama=0,not1=0,not2=0#
+2#Giris_171723_Pic_q138#Giris#272#343#1 Notu giriniz...:#not1
+3#Giris_171723_Pic_f436#Giris#365#345#2. notu giriniz...:#not2
+7#Cikis_171723_Pic_d101#Cikis#340#645#Kaldı...:#ortalama
+4#Cikis_171723_Pic_y625#Cikis#563#650#Geçti...:#ortalama
+8#Eger_171723_Pic_n266#Eger#442#695#ortalama >=50#
+9#Dugum_171723_Pic_c173#Dugum#350#1026##
+?
+0#1#464#162#464#194#
+1#2#464#251#463#267#
+2#3#463#324#465#360#
+3#5#465#417#464#451#
+4#6#895#586#1001#587#
+7#9#890#363#1021#365#
+9#6#1041#385#1042#562#
+8#4#770#511#770#558#EVET_8_4_4
+5#8#582#479#690#474#
+8#7#770#437#765#392#HAYIR_8_7_5
+?
+0#ortalama#0
+0#not1#0
+0#not2#0

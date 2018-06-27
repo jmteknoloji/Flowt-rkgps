@@ -1,0 +1,95 @@
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.DnmFrmAna.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmAna.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.Properties.Resources.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmVeriGirisCikis.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIletisim.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIslemNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmDegiskenNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGirisNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmCikisNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmEgerNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.DnmFrmAna.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmAna.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmCikisNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmDegiskenNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmEgerNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGirisNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIletisim.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIslemNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmVeriGirisCikis.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.Properties.Resources.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (1811152041)\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csproj.GenerateResource.Cache
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.DnmFrmAna.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmAna.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmCikisNesne.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmDegiskenNesne.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmEgerNesne.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGirisNesne.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIletisim.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIslemNesne.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmVeriGirisCikis.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.Properties.Resources.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csproj.GenerateResource.Cache
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.exe.licenses
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmCalismaHizi.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmAyarlar.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGuncellemePaneli.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csprojResolveAssemblyReference.cache
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGuncellemeIndirme.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmAna.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmAyarlar.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmCalismaHizi.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmCikisNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmDegiskenNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmEgerNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGirisNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGuncellemeIndirme.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGuncellemePaneli.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIletisim.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIslemNesne.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmVeriGirisCikis.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.Properties.Resources.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.exe.licenses
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.exe.config
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csprojResolveAssemblyReference.cache
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.exe.config
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.exe
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\bin\Release\FlowTürk Görsel Programlama Simülatörü.pdb
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmAna.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmAyarlar.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmCalismaHizi.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmCikisNesne.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmDegiskenNesne.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmEgerNesne.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGirisNesne.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGuncellemeIndirme.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmGuncellemePaneli.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIletisim.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmIslemNesne.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.FrmVeriGirisCikis.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk_Görsel_Programlama_Simülatörü.Properties.Resources.resources
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csproj.GenerateResource.Cache
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.exe.licenses
+C:\Users\jmt_6\Desktop\FlowTürk Görsel Programlama Simülatörü\FlowTürk Görsel Programlama Simülatörü\obj\Release\FlowTürk Görsel Programlama Simülatörü.csprojResolveAssemblyReference.cache

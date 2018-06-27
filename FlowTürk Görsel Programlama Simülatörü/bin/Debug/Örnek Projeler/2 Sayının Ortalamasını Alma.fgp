@@ -1,0 +1,18 @@
+0#Baslat_012954_Pic_k361#Baslat#117#428##
+2#Giris_012954_Pic_h454#Giris#273#344#1 sayı giriniz:#sayi1
+3#Giris_012954_Pic_l475#Giris#364#345#2. sayı giriniz:#sayi2
+6#Dur_012954_Pic_y611#Dur#637#425##
+5#Islem_012954_Pic_n819#Islem#457#352#ortalama=(sayi1+sayi2)/2#
+1#Degisken_012954_Pic_s829#Degisken#199#352#ortalama=0,sayi1=0,sayi2=0#
+4#Cikis_012954_Pic_p48#Cikis#547#347#Sonuç :#ortalama
+?
+0#1#464#162#464#194#
+1#2#464#251#464#268#
+2#3#464#325#465#359#
+3#5#465#416#464#452#
+5#4#464#509#467#542#
+4#6#467#599#461#632#
+?
+0#ortalama#0
+0#sayi1#0
+0#sayi2#0

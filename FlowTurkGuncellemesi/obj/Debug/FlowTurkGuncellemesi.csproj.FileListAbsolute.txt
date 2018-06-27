@@ -1,0 +1,20 @@
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\obj\Debug\FlowTurkGuncellemesi.csprojResolveAssemblyReference.cache
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\obj\Debug\FlowTurkGuncellemesi.FrmAna.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\obj\Debug\FlowTurkGuncellemesi.Properties.Resources.resources
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\obj\Debug\FlowTurkGuncellemesi.csproj.GenerateResource.Cache
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\bin\Debug\FlowTürk Update.exe
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\bin\Debug\FlowTürk Update.pdb
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\obj\Debug\FlowTürk Update.exe
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\obj\Debug\FlowTürk Update.pdb
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\bin\Debug\JMProjectDownloadProtocol.dll
+C:\Users\JMT-PC\Desktop\FlowTürk Görsel Programlama Simülatörü (0712150022)\FlowTurkGuncellemesi\bin\Debug\JMProjectDownloadProtocol.pdb
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\obj\Debug\FlowTurkGuncellemesi.csprojResolveAssemblyReference.cache
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\obj\Debug\FlowTurkGuncellemesi.FrmAna.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\obj\Debug\FlowTurkGuncellemesi.Properties.Resources.resources
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\obj\Debug\FlowTurkGuncellemesi.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\obj\Debug\FlowTürk Update.exe
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\obj\Debug\FlowTürk Update.pdb
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\bin\Debug\FlowTürk Update.exe
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\bin\Debug\FlowTürk Update.pdb
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\bin\Debug\JMProjectDownloadProtocol.dll
+C:\Users\JMTech\Desktop\FlowTürk Görsel Programlama Simülatörü (250620162138)\FlowTurkGuncellemesi\bin\Debug\JMProjectDownloadProtocol.pdb

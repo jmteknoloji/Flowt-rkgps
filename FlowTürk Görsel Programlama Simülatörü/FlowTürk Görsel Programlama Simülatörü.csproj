@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F83CE50-95F4-4174-ABF5-9B5B3BDCECEB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FlowTürk_Görsel_Programlama_Simülatörü</RootNamespace>
+    <AssemblyName>FlowTürk Görsel Programlama Simülatörü</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisIgnoreGeneratedCode>true</CodeAnalysisIgnoreGeneratedCode>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>FlowTürkLogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="JMProjectDownloadProtocol, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\JMProjectDownloadProtocol.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClsDataBase.cs" />
+    <Compile Include="ClsDegiskenler.cs" />
+    <Compile Include="ClsHatalar.cs" />
+    <Compile Include="ClsIslem.cs" />
+    <Compile Include="ClsKarsilastir.cs" />
+    <Compile Include="ClsOzelFonksiyonlar.cs" />
+    <Compile Include="ClsRgtUza.cs" />
+    <Compile Include="ClsSekiller.cs" />
+    <Compile Include="FrmAna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAna.Designer.cs">
+      <DependentUpon>FrmAna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAyarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAyarlar.Designer.cs">
+      <DependentUpon>FrmAyarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCalismaHizi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCalismaHizi.Designer.cs">
+      <DependentUpon>FrmCalismaHizi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCikisNesne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCikisNesne.Designer.cs">
+      <DependentUpon>FrmCikisNesne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDegiskenNesne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDegiskenNesne.Designer.cs">
+      <DependentUpon>FrmDegiskenNesne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEgerNesne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEgerNesne.Designer.cs">
+      <DependentUpon>FrmEgerNesne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGirisNesne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGirisNesne.Designer.cs">
+      <DependentUpon>FrmGirisNesne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGuncellemeIndirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGuncellemeIndirme.Designer.cs">
+      <DependentUpon>FrmGuncellemeIndirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGuncellemePaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGuncellemePaneli.Designer.cs">
+      <DependentUpon>FrmGuncellemePaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIletisim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIletisim.Designer.cs">
+      <DependentUpon>FrmIletisim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIslemNesne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIslemNesne.Designer.cs">
+      <DependentUpon>FrmIslemNesne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVeriGirisCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVeriGirisCikis.Designer.cs">
+      <DependentUpon>FrmVeriGirisCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAna.resx">
+      <DependentUpon>FrmAna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAyarlar.resx">
+      <DependentUpon>FrmAyarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCalismaHizi.resx">
+      <DependentUpon>FrmCalismaHizi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCikisNesne.resx">
+      <DependentUpon>FrmCikisNesne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDegiskenNesne.resx">
+      <DependentUpon>FrmDegiskenNesne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEgerNesne.resx">
+      <DependentUpon>FrmEgerNesne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGirisNesne.resx">
+      <DependentUpon>FrmGirisNesne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGuncellemeIndirme.resx">
+      <DependentUpon>FrmGuncellemeIndirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGuncellemePaneli.resx">
+      <DependentUpon>FrmGuncellemePaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIletisim.resx">
+      <DependentUpon>FrmIletisim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIslemNesne.resx">
+      <DependentUpon>FrmIslemNesne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVeriGirisCikis.resx">
+      <DependentUpon>FrmVeriGirisCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Button\SolaYasla.png" />
+    <None Include="bin\Debug\Button\Ortala.png" />
+    <None Include="bin\Debug\Button\SagaYasla.png" />
+    <None Include="bin\Debug\Button\Previous.png" />
+    <None Include="bin\Debug\Button\Next.png" />
+    <None Include="bin\Release\Button\OtoCizgi.png" />
+    <Content Include="FlowTürkProjectLogo.ico" />
+    <Content Include="Resources\FlowTürkLogo.ico" />
+    <None Include="bin\Release\Button\Baslat.png" />
+    <None Include="bin\Release\Button\Islem.png" />
+    <None Include="bin\Release\Button\Islem2.png" />
+    <None Include="bin\Release\Button\Degiskenler.png" />
+    <None Include="bin\Release\Nesne Ekle Icon.cur" />
+    <None Include="bin\Release\Button\DurCizgi.png" />
+    <None Include="bin\Release\Button\CikisCizgi.png" />
+    <None Include="bin\Release\Button\GirisCizgi.png" />
+    <None Include="bin\Release\Button\IslemCizgi.png" />
+    <None Include="bin\Release\Button\Play-1-Hot-icon.png" />
+    <None Include="bin\Release\Button\Pause-Pressed-icon.png" />
+    <None Include="bin\Release\Button\Stop-Pressed-icon.png" />
+    <None Include="bin\Release\Button\Actions-help-about-icon.png" />
+    <None Include="bin\Release\Button\1465016562_downloading_updates.png" />
+    <None Include="bin\Release\Button\Settings-icon.png" />
+    <None Include="bin\Release\Button\BaslatCizgi.png" />
+    <None Include="bin\Release\Button\alignhorizontaltop_16x16.png" />
+    <None Include="bin\Release\Button\BaslatIcon.png" />
+    <None Include="bin\Release\Button\DegiskenlerCizgi.png" />
+    <None Include="bin\Release\Button\IslemDegIcon.png" />
+    <None Include="bin\Release\Button\EgerCizgi.png" />
+    <None Include="bin\Release\Button\EgerIcon.png" />
+    <None Include="bin\Release\Button\GirisIcon.png" />
+    <None Include="bin\Release\Button\CikisIcon.png" />
+    <None Include="bin\Release\Button\DugumCizgi.png" />
+    <None Include="bin\Release\Button\DugumIcon.png" />
+    <None Include="bin\Release\Button\DurIcon.png" />
+    <None Include="bin\Release\Button\YeniDosya.png" />
+    <None Include="bin\Release\Button\DosyaAc.png" />
+    <None Include="bin\Release\Button\Kaydet.png" />
+    <None Include="bin\Release\Button\SayfaYenile.png" />
+    <None Include="bin\Release\Button\ProjeBaslat.png" />
+    <None Include="bin\Release\Button\ProjeDurdur.png" />
+    <None Include="bin\Release\Button\CalismaHizi.png" />
+    <None Include="bin\Release\Button\Yardım.png" />
+    <None Include="bin\Release\Button\UpdateApp.png" />
+    <None Include="bin\Release\Button\Ayarlar.png" />
+    <None Include="bin\Release\Button\JMTechLogo.png" />
+    <None Include="bin\Release\Button\ProjeBeklet.png" />
+    <None Include="bin\Release\Button\Exit.png" />
+    <None Include="bin\Release\Button\Telefon.png" />
+    <None Include="bin\Release\Button\IletisimArkaPlan.jpg" />
+    <None Include="bin\Release\Button\IletisimUstCubuk.png" />
+    <None Include="bin\Release\Button\divider.png" />
+    <None Include="bin\Release\Button\dots.png" />
+    <None Include="bin\Release\Button\JMTechLogo64x64.png" />
+    <None Include="bin\Release\Button\JMTechLogo72x72.png" />
+    <None Include="bin\Release\Button\UstCubuk.png" />
+    <None Include="bin\Release\Button\UstCubuk2.png" />
+    <None Include="bin\Release\Button\divider2.png" />
+    <None Include="bin\Release\Button\FlowTürkLogo.png" />
+    <Content Include="FlowTürkLogo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

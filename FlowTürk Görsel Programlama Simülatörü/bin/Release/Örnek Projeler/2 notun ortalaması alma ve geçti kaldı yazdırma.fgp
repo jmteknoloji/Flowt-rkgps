@@ -1,0 +1,23 @@
+0#Baslat_225814_Pic_a418#Baslat#126#400##
+8#Dur_225848_Pic_g919#Dur#433#653##
+1#Degisken_225818_Pic_k643#Degisken#189#323#ort=0,sayi1=0,sayi2=0#
+2#Islem_225824_Pic_y823#Islem#264#317#ort=(sayi1+sayi2)/2#
+4#Giris_225830_Pic_m729#Giris#189#600#1. Sayıyı Giriniz#sayi1
+3#Giris_225827_Pic_q446#Giris#265#600#2. Sayıyı Giriniz#sayi2
+5#Eger_225838_Pic_k41#Eger#334#355#ort >= 45#
+7#Cikis_225846_Pic_p822#Cikis#346#574#Geçti :#ort
+6#Cikis_225843_Pic_b507#Cikis#432#310#Kaldı :#ort
+?
+0#1#436#171#435#184#
+1#4#553#212#595#212#
+4#3#720#241#720#260#
+3#2#595#288#547#287#
+2#5#429#316#430#329#
+5#7#510#366#569#369#EVET_5_7_0
+5#6#430#403#430#427#HAYIR_5_6_1
+6#8#555#455#648#453#
+7#8#694#398#689#428#
+?
+0#ort#0
+0#sayi1#0
+0#sayi2#0

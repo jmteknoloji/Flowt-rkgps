@@ -1,0 +1,25 @@
+0#Baslat_233029_Pic_l622#Baslat#120#369##
+7#Dur_233145_Pic_t547#Dur#327#676##
+8#Dugum_233153_Pic_c863#Dugum#319#544##
+9#Dugum_233159_Pic_g224#Dugum#129#545##
+3#Giris_233111_Pic_a463#Giris#309#277#1. sayıyı Giriniz#sayi1
+4#Giris_233117_Pic_t428#Giris#122#597#2. Sayıyı Giriniz#sayi2
+5#Giris_233120_Pic_e599#Giris#187#597#3. Sayıyı Giriniz#sayi3
+1#Degisken_233031_Pic_c605#Degisken#178#297#ortalama=0,sayi1=0,sayi2=0,sayi3=0#
+2#Islem_233443_Pic_l734#Islem#243#295#ortalama=(sayi1+sayi2+sayi3)#
+6#Cikis_233135_Pic_q219#Cikis#258#597#Ortalama :#ortalama
+?
+0#1#405#165#409#173#
+3#8#522#332#539#334#
+8#9#559#314#560#164#
+9#4#580#144#592#145#
+4#5#717#174#717#182#
+5#6#717#239#717#253#
+6#7#717#310#712#322#
+1#2#409#230#407#238#
+2#3#407#295#397#304#
+?
+0#ortalama#0
+0#sayi1#0
+0#sayi2#0
+0#sayi3#0
